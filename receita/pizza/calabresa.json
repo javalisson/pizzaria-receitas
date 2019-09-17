@@ -1,5 +1,5 @@
 {
-  "versao": "1.0.3",
+  "versao": "1.0.4",
   "sabor": "calabresa",
   "ingredientes": [
     {
@@ -75,34 +75,26 @@
     }, {
       "id": 4,
       "ordem": 4,
-      "descricao": "Espalhe o queijo mussarela"
+      "descricao": "Espalhe a calabresa"
     }, {
       "id": 5,
       "ordem": 5,
-      "descricao": "Espalhe a calabresa"
+      "descricao": "Espalhe a cebola"
     }, {
       "id": 6,
       "ordem": 6,
-      "descricao": "Espalhe a cebola"
+      "descricao": "Espalhe as azeitonas"
     }, {
       "id": 7,
       "ordem": 7,
-      "descricao": "Espalhe as azeitonas"
+      "descricao": "Espalhe o orégano"
     }, {
       "id": 8,
       "ordem": 8,
-      "descricao": "Espalhe as azeitonas"
+      "descricao": "Espalhe a pimenta calabresa"
     }, {
       "id": 9,
       "ordem": 9,
-      "descricao": "Espalhe o orégano"
-    }, {
-      "id": 10,
-      "ordem": 10,
-      "descricao": "Espalhe a pimenta calabresa"
-    }, {
-      "id": 11,
-      "ordem": 11,
       "descricao": "Leve ao forno na temperatura de 180°C por 15 minutos"
     }
   ]

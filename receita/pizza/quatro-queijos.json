@@ -1,53 +1,36 @@
 {
-  "versao": "1.0.0",
-  "sabor": "calabresa",
+  "versao": "1.0.2",
+  "sabor": "quatro-queijos",
   "ingredientes": [
     {
       "id": 1,
+      "ordem": 1,
       "nome": "Massa de pizza",
       "quantidade": 1,
       "unidade": "un"
-    },
-    {
+    }, {
       "id": 2,
-      "nome": "Molho de tomate",
-      "quantidade": 50,
-      "unidade": "ml"
-    },
-    {
-      "id": 3,
+      "ordem": 2,
       "nome": "Queijo mussarela ralado",
-      "quantidade": 150,
+      "quantidade": 100,
       "unidade": "g"
-    },
-    {
+    }, {
+      "id": 3,
+      "ordem": 3,
+      "nome": "Queijo parmesão em fatias",
+      "quantidade": 100,
+      "unidade": "g"
+    }, {
       "id": 4,
-      "nome": "Linguiça calabresa em rodelas",
-      "quantidade": 200,
+      "ordem": 4,
+      "nome": "Queijo gorgonzola em pedaços",
+      "quantidade": 100,
       "unidade": "g"
-    },
-    {
+    }, {
       "id": 5,
-      "nome": "Cebola em rodelas",
-      "quantidade": 75,
-      "unidade": "g"
-    },
-    {
-      "id": 6,
-      "nome": "Azeitonas fatiadas",
-      "quantidade": 25,
-      "unidade": "g"
-    },
-    {
-      "id": 7,
-      "nome": "Orégano",
-      "quantidade": 10,
-      "unidade": "g"
-    },
-    {
-      "id": 8,
-      "nome": "Pimenta calabresa",
-      "quantidade": 5,
+      "ordem": 5,
+      "nome": "Queijo catupiry",
+      "quantidade": 100,
       "unidade": "g"
     }
   ],
@@ -59,42 +42,22 @@
     }, {
       "id": 2,
       "ordem": 2,
-      "descricao": "Aplique o molho de tomate"
+      "descricao": "Espalhe o queijo mussarela"
     }, {
       "id": 3,
       "ordem": 3,
-      "descricao": "Espalhe o queijo mussarela"
+      "descricao": "Espalhe o queijo parmesão"
     }, {
       "id": 4,
       "ordem": 4,
-      "descricao": "Espalhe o queijo mussarela"
+      "descricao": "Espalhe o queijo gorgonzola"
     }, {
       "id": 5,
       "ordem": 5,
-      "descricao": "Espalhe a calabresa"
+      "descricao": "Espalhe o queijo catupiry"
     }, {
       "id": 6,
       "ordem": 6,
-      "descricao": "Espalhe a cebola"
-    }, {
-      "id": 7,
-      "ordem": 7,
-      "descricao": "Espalhe as azeitonas"
-    }, {
-      "id": 8,
-      "ordem": 8,
-      "descricao": "Espalhe as azeitonas"
-    }, {
-      "id": 9,
-      "ordem": 9,
-      "descricao": "Espalhe o orégano"
-    }, {
-      "id": 10,
-      "ordem": 10,
-      "descricao": "Espalhe a pimenta calabresa"
-    }, {
-      "id": 11,
-      "ordem": 11,
       "descricao": "Leve ao forno na temperatura de 180°C por 15 minutos"
     }
   ]
