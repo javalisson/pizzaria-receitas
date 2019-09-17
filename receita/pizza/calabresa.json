@@ -1,5 +1,5 @@
 {
-  "versao": "1.0.4",
+  "versao": "1.0.5",
   "sabor": "calabresa",
   "ingredientes": [
     {
@@ -55,7 +55,7 @@
       "id": 8,
       "ordem": 8,
       "nome": "Pimenta calabresa",
-      "quantidade": 6,
+      "quantidade": 5,
       "unidade": "g"
     }
   ],
